@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using _02Dapper;
+
+string connectionString = @"Server=DESKTOP-9L5BAUH\SQLEXPRESS; Database=examDB; Trusted_Connection=True; Encrypt=False";
